@@ -27,7 +27,6 @@ a [contribution](#contribute)!
 
 About this section. Optional. Keep this short and focus on the list.
 
-- [Arc](http://arclanguage.org/) - Arc is designed for exploratory programming: the kind where you decide what to write by writing it.
 - [C]() - TODO: need source/citation
 - [C#](https://docs.microsoft.com/en-us/dotnet/csharp/): (pronounced "C sharp") is a simple, modern, object-oriented, and type-safe programming language.
 - [C++](https://isocpp.org/): is a general-purpose programming language with a bias towards systems programming that: is a better C; supports data abstraction; supports object-oriented programming; supports generic programming; supports functional programming.
@@ -109,6 +108,7 @@ Also known as packages, dependencies, gems, wheels, or whatever is appropriate f
 - [Atom](https://atom.io): A hackable text editor for the 21st Century
 - [DataGrip](https://www.jetbrains.com/datagrip): Many databases, one tool
 - [Eclipse](https://www.eclipse.org): The Platform for Open Innovation and Collaboration
+- [GNU Bash](https://www.gnu.org/software/bash/): Bash is the GNU Project's Bourne Again SHell, a complete implementation of the IEEE POSIX and Open Group shell specification with interactive command line editing, job control on architectures that support it, csh-like features such as history substitution and brace expansion, and a slew of other features. 
 - [GNU Emacs](https://www.gnu.org/software/emacs/): An extensible, customizable, free/libre text editor — and more.
 - [GNU nano](https://www.nano-editor.org): was designed to be a free replacement for the Pico text editor, part of the Pine email suite from The University of Washington.
 - [PyCharm](https://www.jetbrains.com/pycharm/): The Python IDE for Professional Developers
